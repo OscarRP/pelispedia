@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Pelispedia</string>
+
+    <!-- Login Activity -->
+    <string name="login">LOGIN</string>
+    <string name="login_button">Entrar</string>
+    <string name="not_registered">No estoy registrado</string>
+    <string name="login_error">Se ha producido un error</string>
+    <string name="forgot_password">He olvidado mi contraseña</string>
+
+    <!-- Reister Activity -->
+    <string name="register">REGISTRO</string>
+    <string name="nick">Introduce tu nick</string>
+    <string name="email">Introduce tu email</string>
+    <string name="password">Introduce tu contraseña</string>
+    <string name="register_button">Registrarse</string>
+    <string name="registered">Ya estoy registrado</string>
+    <string name="user_created">Usuario creado correctamente</string>
+    <string name="error">Se ha producido un error</string>
+    <string name="nick_empty">Debes rellenar el campo nick</string>
+    <string name="email_empty">Debes rellenar el campo email</string>
+    <string name="password_empty">Debes rellenar el campo password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="user_exsits">Este usuario ya existe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Options Menu -->
+    <string name="close_session">Cerrar Sesión</string>
+    <string name="add_to_favorites">Añadir a favoritas</string>
+    <string name="quit_from_favorites">Eliminar de favoritas</string>
+
+    <!-- Navigation Drawer Menu -->
+    <string name="home">Inicio</string>
+    <string name="favourites">Favoritas</string>
+    <string name="upcoming">Próximos Estrenos</string>
+    <string name="top_rated">Mejores Películas</string>
+    <string name="settings">Ajustes</string>
+    <string name="my_profile">Mi Perfil</string>
+
+    <!-- Home Fragment -->
+    <string name="search">Buscar película</string>
+
+    <!-- Categories -->
+    <string name="action">Acción</string>
+    <string name="mystery">Misterio</string>
+    <string name="comedy">Comedia</string>
+    <string name="fiction">Ciencia Ficción</string>
+    <string name="horror">Terror</string>
+
+    <!-- Search Serie Dialog -->
+    <string name="dialog_header">Resultados</string>
+    <string name="no_results_found">No se han encontrado resultados con ese nombre</string>
+    <string name="accept">Aceptar</string>
+
+    <!-- Detail Fragment -->
+    <string name="overview">Sinopsis</string>
+    <string name="duration">Duración</string>
+    <string name="release_date">Fecha de Estreno</string>
+    <string name="added_to_favorites">Película añadida a favoritas</string>
+    <string name="deleted_from_favorites">Película eliminada de favoritas</string>
+    <string name="already_added">Esta película ya está en tu lista de favoritas</string>
+
+    <!-- PROFILE -->
+    <string name="current_password">Contraseña actual</string>
+    <string name="change_password">Cambiar contraseña</string>
+    <string name="password_changed">La contraseña se ha cambiado correctamente</string>
+    <string name="close_session_title_dialog">Cerrar Sesión</string>
+    <string name="close_session_message_dialog">¿Seguro que quieres cerrar la sesión?</string>
+    <string name="image_selection_title">Foto de perfil</string>
+    <string name="repeat_password">Repite contraseña</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="profile_title">Mi Perfil</string>
+    <string name="cancel">Cancelar</string>
+    <string name="register_error">Debes rellenar todos los campos correctamente</string>
+
+    <!-- Select image dialog tittle-->
+    <string name="select_image_dialog_tittle">Selecciona una opción</string>
+    <string name="dialog_ok_button">Aceptar</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424178</color>
+    <color name="colorPrimaryDark">#000025</color>
+    <color name="colorAccent">#847760</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent_white">#29000000</color>
+    <color name="background">#d2d2d6</color>
+    <color name="dark_grey">#4d4c4c</color>
+
+    <!-- GRADIENT COLORS -->
+    <color name="gradient_color_light">#424178</color>
+    <color name="gradient_color_dark">#000025</color>
+</resources>

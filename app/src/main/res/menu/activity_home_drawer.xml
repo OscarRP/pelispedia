@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@mipmap/home_icon"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/favourites"
+            android:icon="@mipmap/favourites_icon"
+            android:title="@string/favourites" />
+        <item
+            android:id="@+id/upcoming"
+            android:icon="@mipmap/upcoming_icon"
+            android:title="@string/upcoming" />
+        <item
+            android:id="@+id/top_rated"
+            android:icon="@mipmap/top_rated_icon"
+            android:title="@string/top_rated" />
+    </group>
+
+    <item android:title="@string/settings">
+        <menu>
+            <item
+                android:id="@+id/my_profile"
+                android:icon="@mipmap/profile_icon"
+                android:title="@string/my_profile" />
+
+        </menu>
+    </item>
+
+</menu>

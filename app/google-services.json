@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "957599252382",
+    "firebase_url": "https://pelispedia-36334.firebaseio.com",
+    "project_id": "pelispedia-36334",
+    "storage_bucket": "pelispedia-36334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957599252382:android:2c6fc39cb99c254d",
+        "android_client_info": {
+          "package_name": "com.proyecto.sergioblanco.pelispedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957599252382-6aprr2fcjo534kugoa02n3jgablvevuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8PP15o8IoVsdAyS3mcFdkIT7xJUKGx1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
